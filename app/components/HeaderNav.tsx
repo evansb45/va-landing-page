@@ -12,6 +12,7 @@ const HeaderNav = () => {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
+  
 
   return (
     <div
