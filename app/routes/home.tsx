@@ -222,7 +222,7 @@ export default function Home() {
                 What we do
               </h2>
               <p className="text-gray-600 mb-3">
-                ExpertHub Virtual Assistance is your right-hand man for
+                ExpertHub Virtual Assistant is your right-hand man for
                 everything that matters.
               </p>
 
