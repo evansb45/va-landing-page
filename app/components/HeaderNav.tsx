@@ -56,6 +56,15 @@ const HeaderNav = () => {
               Pricing
             </Link>
 
+            <a
+              href="https://www.experthubllc.com/home#contact"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-base py-2"
+            >
+              Contact
+            </a>
+
             {/* <Link
               to="https://project.experthubllc.com/professional/auth/signup"
               className="text-base py-2"
@@ -100,6 +109,14 @@ const HeaderNav = () => {
             >
               Pricing
             </Link>
+            <a
+              href="https://www.experthubllc.com/home#contact"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-base py-2 border-b border-gray-100"
+            >
+              Contact
+            </a>
             {/* <Link
               to="https://project.experthubllc.com/professional/auth/signup"
               className="text-base py-2 border-b border-gray-100"

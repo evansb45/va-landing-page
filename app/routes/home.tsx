@@ -53,7 +53,7 @@ const faqs = [
   {
     question: "How does Experthub work?",
     answer:
-      "We match you with a trained virtual assistant based on your business needs. You delegate tasks, and your VA handles them remotely.",
+      "We match you with a trained Virtual Assistant based on your business needs. You delegate tasks, and your VA handles them remotely.",
   },
   {
     question: "What tasks can I delegate to a Virtual Assistant?",
@@ -189,7 +189,7 @@ export default function Home() {
                 <span className="text-primary">Virtual Assistants</span>
               </h2>
               <p className="text-gray-600 text-sm">
-                Reliable virtual assistant support for entrepreneurs, small
+                Reliable Virtual Assistant support for entrepreneurs, small
                 businesses, and busy professionals so you can focus on growth.
               </p>
               <div className="flex gap-3 mt-4">
@@ -222,7 +222,7 @@ export default function Home() {
                 What we do
               </h2>
               <p className="text-gray-600 mb-3">
-                ExpertHub virtual assistance is your right-hand man for
+                ExpertHub Virtual Assistance is your right-hand man for
                 everything that matters.
               </p>
 
@@ -405,7 +405,7 @@ export default function Home() {
             </h2>
             <p className="text-gray-600 mb-4">
               Your Time Is Priceless — Let’s Help You Protect It. Experthub
-              virtual assistants are selected based on your unique requirements,
+              Virtual Assistants are selected based on your unique requirements,
               so no more drowning in admin tasks, endless emails, and
               overwhelming social media. We take care of the details so you can
               do what truly matters—grow and scale your business.
@@ -431,12 +431,12 @@ export default function Home() {
                   "Flexible & affordable plans that grow with your business",
                   "Customized solutions designed around your unique needs",
                   "A trained team working in a professional, distraction-free environment",
-                  "Ongoing training to ensure our virtual assistants stay top-notch",
+                  "Ongoing training to ensure our Virtual Assistants stay top-notch",
                 ].map((feature, i) => (
                   <AccordionItem
                     key={i}
                     value={`feature-${i + 1}`}
-                    className="border-b border-gray-500 mb-4 px-3"
+                    className="border-none mb-4 px-3"
                   >
                     <AccordionTrigger className="font-bold [&>svg]:hidden">
                       <div className="flex justify-start gap-2">
@@ -569,7 +569,7 @@ export default function Home() {
               General Virtual Assistant Pricing
             </h2>
             <p>
-              A ExpertHub General Virtual Assistant (GVA) will take care of your
+              A ExpertHub General Virtual Assistant will take care of your
               administrative and personal work and help you streamline your
               day-to-day operations so you can focus on growing your business
               and achieving your goals.
@@ -644,7 +644,7 @@ export default function Home() {
               </Link>
             </div>
             <div className="p-4 lg:border-r border-r-gray-200">
-              <h2 className="text-xl font-bold">GVA Full-Time</h2>
+              <h2 className="text-xl font-bold"> Full-Time</h2>
               <p className="text-primary font-bold text-3xl my-4">$850/Month</p>
               <Link
                 to={"https://www.experthubllc.com/?mode=signup&createorg=true"}
@@ -684,7 +684,7 @@ export default function Home() {
               </ul>
             </div>
             <div className="p-4">
-              <h2 className="text-xl font-bold">GVA Part-Time</h2>
+              <h2 className="text-xl font-bold"> Part-Time</h2>
               <p className="text-primary font-bold text-3xl my-4">$450/Month</p>
               <Link
                 to={"https://www.experthubllc.com/?mode=signup&createorg=true"}
