@@ -195,7 +195,7 @@ export default function Home() {
               <div className="flex gap-3 mt-4">
                 <Link
                   to={
-                    "https://www.experthubllc.com/?mode=signup&createorg=true"
+                    "https://www.experthubllc.com/?mode=signup&createorg=true&VA=true"
                   }
                 >
                   <button className="md:px-8 px-4 py-2 bg-primary text-white rounded-full">
