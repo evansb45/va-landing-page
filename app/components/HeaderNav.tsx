@@ -79,7 +79,7 @@ const HeaderNav = () => {
                 Become a VA
               </button>
             </Link>
-            <Link to="https://www.experthubllc.com/">
+            <Link to="https://www.experthubllc.com/?VA=true">
               <button className="ml-2 px-4 py-2 text-primary rounded hover:brightness-90 transition">
                 Login
               </button>
@@ -133,7 +133,7 @@ const HeaderNav = () => {
                 Become a VA
               </button>
             </Link>
-            <Link to={"https://www.experthubllc.com/"}>
+            <Link to={"https://www.experthubllc.com/?VA=true"}>
               <button className="mt-2 px-4 py-2 text-primary rounded hover:brightness-90 transition border border-primary">
                 Login
               </button>
