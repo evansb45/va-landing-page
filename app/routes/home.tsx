@@ -195,7 +195,7 @@ export default function Home() {
               <div className="flex gap-3 mt-4">
                 <Link
                   to={
-                    "https://www.experthubllc.com/?mode=signup&createorg=true&VA=true"
+                    "https://www.experthubllc.com/auth?mode=signup&createorg=true&VA=true"
                   }
                 >
                   <button className="md:px-8 px-4 py-2 bg-primary text-white rounded-full">
@@ -539,7 +539,7 @@ export default function Home() {
               <li>Upskilling and training</li>
             </ul> */}
             <Link
-              to={"https://www.experthubllc.com/?mode=signup&createorg=true"}
+              to={"https://www.experthubllc.com/auth?mode=signup&createorg=true"}
             >
               <button className="bg-transparent border border-black rounded-full px-8 text-black py-3 mt-4">
                 Book Your Virtual Assistant Today
@@ -647,7 +647,7 @@ export default function Home() {
               <h2 className="text-xl font-bold"> Full-Time</h2>
               <p className="text-primary font-bold text-3xl my-4">$850/Month</p>
               <Link
-                to={"https://www.experthubllc.com/?mode=signup&createorg=true"}
+                to={"https://www.experthubllc.com/auth?mode=signup&createorg=true"}
               >
                 <button className="bg-primary text-white w-full rounded-full px-4 py-2">
                   Sign Up
@@ -687,7 +687,7 @@ export default function Home() {
               <h2 className="text-xl font-bold"> Part-Time</h2>
               <p className="text-primary font-bold text-3xl my-4">$450/Month</p>
               <Link
-                to={"https://www.experthubllc.com/?mode=signup&createorg=true"}
+                to={"https://www.experthubllc.com/auth?mode=signup&createorg=true"}
               >
                 <button className="bg-primary text-white w-full rounded-full px-4 py-2">
                   Sign Up
